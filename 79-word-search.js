@@ -3,6 +3,7 @@
  * @param {string} word
  * @return {boolean}
  */
+/* https://leetcode.com/problems/word-search/ */
 const exist = function (board, word) {
   const rows = board.length;
   const cols = board[0].length;
