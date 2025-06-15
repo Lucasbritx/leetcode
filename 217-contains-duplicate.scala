@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/contains-duplicate/description/
+
 import scala.collection.mutable.HashSet
 
 object Solution {
