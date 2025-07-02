@@ -17,7 +17,6 @@ var findWords = function (words) {
       if (!secondRow.includes(letter.toLowerCase())) haveOnlySecondRow = false;
       if (!thirdRow.includes(letter.toLowerCase())) haveOnlyThirdRow = false;
     });
-    console.log({ haveOnlyFirstRow, haveOnlySecondRow, haveOnlyThirdRow });
     if (haveOnlyFirstRow || haveOnlySecondRow || haveOnlyThirdRow) {
       result.push(word);
     }
