@@ -1,11 +1,17 @@
-object Solution {
-    def twoSum(nums: Array[Int], target: Int): Array[Int] = {
-  for {
-    i <- nums.indices
-    j <- nums.indices
-    if i != j && nums(i) + nums(j) == target
-  } return Array(i, j)
+import scala.util.control.Breaks._
 
-  Array()
-}
+object Solution {
+  def twoSum(nums: Array[Int], target: Int): Array[Int] = {
+    var result: Array[Int] = Array()
+
+    breakable {
+      for (i <- nums.indices; j <- nums.indices) {
+        if (i != j && nums(i) + nums(j) == target) {
+          result = Array(i, j)
+          break()
+        }
+      }
+    }
+    result
+  }
 }
