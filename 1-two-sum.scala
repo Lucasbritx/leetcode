@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/two-sum/description/?envType=daily-question&envId=2025-07-19 
 import scala.util.control.Breaks._
 
 object Solution {
