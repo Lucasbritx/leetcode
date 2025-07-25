@@ -2,16 +2,28 @@
  * @param {number[]} nums
  * @return {number}
  */
-/* https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/submissions/1710361320/?envType=daily-question&envId=2025-07-25 */
 const maxSum = function (nums) {
   let sum = 0;
   const uniqueNumbers = [...new Set(nums)];
-  const positiveNumbers = uniqueNumbers.filter((num) => {
-    return num > 0;
-  });
-  positiveNumbers.map((num) => {
-    return (sum += num);
-  });
+  const positiveNumbers =
+    uniqueNumbers.length > 1
+      ? uniqueNumbers.filter((num) => {
+          return num > 0;
+        })
+      : uniqueNumbers;
+
+  if (positiveNumbers.length === 0) {
+    sum = uniqueNumbers[0];
+    uniqueNumbers.map((num) => {
+      if (num > sum) {
+        sum = num;
+      }
+    });
+  } else {
+    positiveNumbers.map((num) => {
+      return (sum += num);
+    });
+  }
 
   return sum;
 };
