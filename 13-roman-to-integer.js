@@ -40,20 +40,20 @@ var romanToInt = function (s) {
   numbersArray.map((number, index) => {
     const lastNumber = numbersArray[index - 1];
     const nextNumber = numbersArray[index + 1];
-    if (number === "I") {
-      if (nextNumber !== "V" && nextNumber !== "X") {
+    if (number === romanNumbers.I.name) {
+      if (nextNumber !== romanNumbers.V.name && nextNumber !== romanNumbers.X.name) {
         return (result += romanNumbers.I.value);
       }
     }
-    if (number === "V") {
+    if (number === romanNumbers.V.name) {
       if (lastNumber === romanNumbers.I.name) {
         return (result += romanNumbers.V.value - romanNumbers.I.value);
       } else {
         return (result += romanNumbers.V.value);
       }
     }
-    if (number === "X") {
-      if (nextNumber !== "L" && nextNumber !== "C") {
+    if (number === romanNumbers.X.name) {
+      if (nextNumber !== romanNumbers.L.name && nextNumber !== romanNumbers.C.name) {
         if (lastNumber === romanNumbers.I.name) {
           return (result += romanNumbers.X.value - romanNumbers.I.value);
         } else {
@@ -61,14 +61,14 @@ var romanToInt = function (s) {
         }
       }
     }
-    if (number === "L") {
+    if (number === romanNumbers.L.name) {
       if (lastNumber === romanNumbers.X.name) {
         return (result += romanNumbers.L.value - romanNumbers.X.value);
       } else {
         return (result += romanNumbers.L.value);
       }
     }
-    if (number === "C") {
+    if (number === romanNumbers.C.name) {
       if (
         nextNumber !== romanNumbers.D.name &&
         nextNumber !== romanNumbers.M.name
@@ -80,14 +80,14 @@ var romanToInt = function (s) {
         }
       }
     }
-    if (number === "D") {
+    if (number === romanNumbers.D.name) {
       if (lastNumber === romanNumbers.C.name) {
         return (result += romanNumbers.D.value - romanNumbers.C.value);
       } else {
         return (result += romanNumbers.D.value);
       }
     }
-    if (number === "M") {
+    if (number === romanNumbers.M.name) {
       if (lastNumber === romanNumbers.C.name) {
         return (result += romanNumbers.M.value - romanNumbers.C.value);
       } else {
