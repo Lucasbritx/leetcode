@@ -1,3 +1,6 @@
+/* https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/?envType=daily-question&envId=2025-11-24 */
+// leetcode daily question nov 22
+
 /**
  * @param {number[]} nums
  * @return {number}
