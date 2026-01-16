@@ -1,9 +1,9 @@
 # 🧠 Algorithm Problems Solutions
 
-A collection of solved algorithm problems from **LeetCode**, **NeetCode**, and **FreeCodeCamp**.
+A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-24-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-25-green)
 
 ---
 
@@ -14,6 +14,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, and *
 | LeetCode     | 17              |
 | NeetCode     | 3               |
 | FreeCodeCamp | 4               |
+| HackerRank   | 1               |
 
 ---
 
@@ -66,7 +67,15 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, and *
 
 ---
 
-## 🛠️ Languages Used
+## � HackerRank Problems
+
+| Problem | Solution | Description |
+|---------|----------|-------------|
+| [Response Time Regressions](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-elements-greater-than-previous-average) | [TypeScript](hackerhank-response-time-regressions.ts) | Count elements greater than running average |
+
+---
+
+## �🛠️ Languages Used
 
 - **JavaScript** - Primary language for most solutions
 - **TypeScript** - Type-safe JavaScript solutions
@@ -80,6 +89,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, and *
 - LeetCode: `{problem-number}-{problem-name}.{extension}`
 - NeetCode: `neetcode-{problem-name}.{extension}`
 - FreeCodeCamp: `freecodecamp-{problem-name}.{extension}`
+- HackerRank: `hackerhank-{problem-name}.{extension}`
 
 ---
 
