@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, and **FreeCodeCamp**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-23-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-24-green)
 
 ---
 
@@ -12,7 +12,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, and *
 | Platform     | Problems Solved |
 |--------------|-----------------|
 | LeetCode     | 17              |
-| NeetCode     | 2               |
+| NeetCode     | 3               |
 | FreeCodeCamp | 4               |
 
 ---
@@ -50,6 +50,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, and *
 | Problem | Solution | Category |
 |---------|----------|----------|
 | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | [JavaScript](neetcode-150-contains-duplicate.js) | Arrays & Hashing |
+| [Is Palindrome](https://neetcode.io/problems/is-palindrome) | [JavaScript](neetcode-is-palindrome.js) | Two Pointers |
 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | [JavaScript](neetcode-is-anagram.js) | Arrays & Hashing |
 
 ---
