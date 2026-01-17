@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-26-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-27-green)
 
 ---
 
@@ -14,7 +14,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | LeetCode     | 18              |
 | NeetCode     | 3               |
 | FreeCodeCamp | 4               |
-| HackerRank   | 1               |
+| HackerRank   | 2               |
 
 ---
 
@@ -72,6 +72,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Problem | Solution | Description |
 |---------|----------|-------------|
+| [Merge and Sort Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/merge-and-sort-intervals) | [TypeScript](hackerrank-merge-and-sort-intervals.ts) | Merge overlapping intervals and sort |
 | [Response Time Regressions](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-elements-greater-than-previous-average) | [TypeScript](hackerhank-response-time-regressions.ts) | Count elements greater than running average |
 
 ---
