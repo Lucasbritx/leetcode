@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-27-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-29-green)
 
 ---
 
@@ -11,8 +11,8 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 18              |
-| NeetCode     | 3               |
+| LeetCode     | 19              |
+| NeetCode     | 4               |
 | FreeCodeCamp | 4               |
 | HackerRank   | 2               |
 
@@ -33,6 +33,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala) | 🟢 Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [JavaScript](500-keyboard-row.js) | 🟢 Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [TypeScript](704-binary-search.ts) | 🟢 Easy |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [JavaScript](1018-binary-prefix-div-by-5.js) | 🟢 Easy |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [TypeScript](1437-check-if-all-1s-are-at-least-length-k-places-away.ts) | 🟢 Easy |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [JavaScript](1695-maximum-erase-value.js) | 🟡 Medium |
@@ -50,8 +51,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 ## 🟦 NeetCode Problems
 
 | Problem | Solution | Category |
-|---------|----------|----------|
-| [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | [JavaScript](neetcode-150-contains-duplicate.js) | Arrays & Hashing |
+|---------|----------|----------|| [Binary Search](https://neetcode.io/problems/binary-search) | [JavaScript](neetcode-binary-search.js) | Binary Search || [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | [JavaScript](neetcode-150-contains-duplicate.js) | Arrays & Hashing |
 | [Is Palindrome](https://neetcode.io/problems/is-palindrome) | [JavaScript](neetcode-is-palindrome.js) | Two Pointers |
 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | [JavaScript](neetcode-is-anagram.js) | Arrays & Hashing |
 
