@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-25-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-26-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 17              |
+| LeetCode     | 18              |
 | NeetCode     | 3               |
 | FreeCodeCamp | 4               |
 | HackerRank   | 1               |
@@ -27,6 +27,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Scala](9-palindrome.scala) | 🟢 Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](13-roman-to-integer.js) | 🟢 Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Scala](27-remove-element.scala), [TypeScript](27-remove-element.ts) | 🟢 Easy |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](56-merge-intervals.ts) | 🟡 Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](66-plus-one.js) | 🟢 Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [JavaScript](79-word-search.js) | 🟡 Medium |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
