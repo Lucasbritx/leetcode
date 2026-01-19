@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-31-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-32-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 21              |
+| LeetCode     | 22              |
 | NeetCode     | 4               |
 | FreeCodeCamp | 4               |
 | HackerRank   | 2               |
@@ -33,6 +33,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala) | 🟢 Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](392-is-subsequence.ts) | 🟢 Easy |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [TypeScript](412-fizzbuzz.ts) | 🟢 Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [JavaScript](500-keyboard-row.js) | 🟢 Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [TypeScript](704-binary-search.ts) | 🟢 Easy |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [TypeScript](792-number-of-matching-subsequences.ts) | 🟡 Medium |
