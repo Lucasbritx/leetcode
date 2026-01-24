@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-33-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-34-green)
 
 ---
 
@@ -13,7 +13,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |--------------|-----------------|
 | LeetCode     | 23              |
 | NeetCode     | 4               |
-| FreeCodeCamp | 4               |
+| FreeCodeCamp | 5               |
 | HackerRank   | 2               |
 
 ---
@@ -67,6 +67,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |---------|----------|-------------|
 | Array Swap | [JavaScript](freecodecamp-array-swap.js) | Reverse an array |
 | Is Odd or Even | [JavaScript](freecodecamp-is-odd-or-even?.js) | Check if a number is odd or even |
+| Is Valid Hex | [JavaScript](freecodecamp-is-valid-hex.js) | Validate hex color codes |
 | Rock Paper Scissors | [JavaScript](freecodecamp-rock-paper-scissors.js) | Classic RPS game implementation |
 | Sorted Array | [JavaScript](freecodecamp-sorted-array?.js) | Array sorting algorithm |
 
