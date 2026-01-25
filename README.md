@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-34-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-35-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 23              |
+| LeetCode     | 24              |
 | NeetCode     | 4               |
 | FreeCodeCamp | 5               |
 | HackerRank   | 2               |
@@ -33,6 +33,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala) | 🟢 Easy |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](292-nim-game.ts) | 🟢 Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](392-is-subsequence.ts) | 🟢 Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [TypeScript](412-fizzbuzz.ts) | 🟢 Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [JavaScript](500-keyboard-row.js) | 🟢 Easy |
