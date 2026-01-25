@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-35-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-36-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 24              |
+| LeetCode     | 25              |
 | NeetCode     | 4               |
 | FreeCodeCamp | 5               |
 | HackerRank   | 2               |
@@ -44,6 +44,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [JavaScript](1695-maximum-erase-value.js) | 🟡 Medium |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [JavaScript](1957-delete-characters-make-fancy-string.js) | 🟢 Easy |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [Java](2154-keep-mult-found-values-by-two.java) | 🟢 Easy |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [TypeScript](2798-number-of-employees-who-met-target.ts) | 🟢 Easy |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [Scala](2942-finding-words-containing-character.scala) | 🟢 Easy |
 | 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [JavaScript](3136-valid-word.js) | 🟢 Easy |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [JavaScript](3190-min-operations.js) | 🟢 Easy |
