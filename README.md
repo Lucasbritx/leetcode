@@ -22,7 +22,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](1-two-sum.js), [Scala](1-two-sum.scala) | 🟢 Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](1-two-sum.ts), [Scala](1-two-sum.scala) | 🟢 Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Scala](7-reverse-integer.scala) | 🟡 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Scala](9-palindrome.scala) | 🟢 Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](13-roman-to-integer.js) | 🟢 Easy |
