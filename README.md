@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-38-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-39-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 27              |
+| LeetCode     | 28              |
 | NeetCode     | 4               |
 | FreeCodeCamp | 5               |
 | HackerRank   | 2               |
@@ -45,6 +45,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [TypeScript](1437-check-if-all-1s-are-at-least-length-k-places-away.ts) | 🟢 Easy |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [JavaScript](1695-maximum-erase-value.js) | 🟡 Medium |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [JavaScript](1957-delete-characters-make-fancy-string.js) | 🟢 Easy |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [TypeScript](1984-minimum-difference.ts) | 🟢 Easy |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [Java](2154-keep-mult-found-values-by-two.java) | 🟢 Easy |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [TypeScript](2798-number-of-employees-who-met-target.ts) | 🟢 Easy |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [Scala](2942-finding-words-containing-character.scala) | 🟢 Easy |
