@@ -7,7 +7,7 @@
  *  2. INTEGER budget
  */
 /* https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/problem?isFullScreen=true */
-
+/* TODO refactor to sort + two pointers */
 function countAffordablePairs(prices: number[], budget: number): number {
     let validPairs = 0;
     for(let i = 0;i < prices.length; i++) {
