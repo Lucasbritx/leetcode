@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-41-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-42-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 30              |
+| LeetCode     | 31              |
 | NeetCode     | 4               |
 | FreeCodeCamp | 5               |
 | HackerRank   | 2               |
@@ -23,6 +23,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](1-two-sum.ts), [Scala](1-two-sum.scala) | 🟢 Easy |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [TypeScript](5-longest-palindrom.ts) | 🟡 Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Scala](7-reverse-integer.scala) | 🟡 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Scala](9-palindrome.scala) | 🟢 Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](13-roman-to-integer.js) | 🟢 Easy |
