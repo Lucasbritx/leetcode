@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-43-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-44-green)
 
 ---
 
@@ -13,7 +13,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |--------------|-----------------|
 | LeetCode     | 31              |
 | NeetCode     | 4               |
-| FreeCodeCamp | 6               |
+| FreeCodeCamp | 7               |
 | HackerRank   | 2               |
 
 ---
@@ -77,6 +77,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | FizzBuzz Mini | [JavaScript](freecodecamp-fizzbuzz-mini.js) | Return Fizz, Buzz, FizzBuzz, or the number |
 | Is Odd or Even | [JavaScript](freecodecamp-is-odd-or-even?.js) | Check if a number is odd or even |
 | Is Valid Hex | [JavaScript](freecodecamp-is-valid-hex.js) | Validate hex color codes |
+| Odd or Even Day | [JavaScript](freecodecamp-odd-or-even-day.js) | Check if a day of month is odd or even |
 | Rock Paper Scissors | [JavaScript](freecodecamp-rock-paper-scissors.js) | Classic RPS game implementation |
 | Sorted Array | [JavaScript](freecodecamp-sorted-array?.js) | Array sorting algorithm |
 
