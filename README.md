@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-45-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-46-green)
 
 ---
 
@@ -14,7 +14,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | LeetCode     | 31              |
 | NeetCode     | 4               |
 | FreeCodeCamp | 7               |
-| HackerRank   | 3               |
+| HackerRank   | 4               |
 
 ---
 
@@ -88,6 +88,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Problem | Solution | Description |
 |---------|----------|-------------|
 | [Check Palindrome by Filtering Non Letters](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-palindrome-filter-non-letters) | [TypeScript](hackerrank-check-palindrome-by-filtering-non-letters.ts) | Check if string is palindrome ignoring non-letters |
+| [Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs) | [TypeScript](hackerrank-count-number-pairs.ts) | Count pairs with sum within budget |
 | [Merge and Sort Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/merge-and-sort-intervals) | [TypeScript](hackerrank-merge-and-sort-intervals.ts) | Merge overlapping intervals and sort |
 | [Response Time Regressions](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-elements-greater-than-previous-average) | [TypeScript](hackerhank-response-time-regressions.ts) | Count elements greater than running average |
 
