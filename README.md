@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-48-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-49-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 33              |
+| LeetCode     | 34              |
 | NeetCode     | 4               |
 | FreeCodeCamp | 7               |
 | HackerRank   | 4               |
@@ -26,6 +26,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [TypeScript](5-longest-palindrom.ts) | 🟡 Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Scala](7-reverse-integer.scala) | 🟡 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Scala](9-palindrome.scala) | 🟢 Easy |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [TypeScript](11-container-with-most-water.ts) | 🟡 Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](13-roman-to-integer.js) | 🟢 Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [TypeScript](26-removed-duplicates-from-sorted-array.ts) | 🟢 Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Scala](27-remove-element.scala), [TypeScript](27-remove-element.ts) | 🟢 Easy |
