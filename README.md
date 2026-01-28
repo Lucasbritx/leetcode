@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-49-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-51-green)
 
 ---
 
@@ -11,8 +11,8 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 34              |
-| NeetCode     | 4               |
+| LeetCode     | 35              |
+| NeetCode     | 5               |
 | FreeCodeCamp | 7               |
 | HackerRank   | 4               |
 
@@ -40,6 +40,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [TypeScript](210-course-schedule-ii.ts) | 🟡 Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala) | 🟢 Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](292-nim-game.ts) | 🟢 Easy |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TypeScript](347-top-k-frequent-elements.ts) | 🟡 Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](392-is-subsequence.ts) | 🟢 Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [TypeScript](412-fizzbuzz.ts) | 🟢 Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [JavaScript](500-keyboard-row.js) | 🟢 Easy |
@@ -68,6 +69,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Problem | Solution | Category |
 |---------|----------|----------|| [Binary Search](https://neetcode.io/problems/binary-search) | [JavaScript](neetcode-binary-search.js) | Binary Search || [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | [JavaScript](neetcode-150-contains-duplicate.js) | Arrays & Hashing |
 | [Is Palindrome](https://neetcode.io/problems/is-palindrome) | [JavaScript](neetcode-is-palindrome.js) | Two Pointers |
+| [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | [JavaScript](neetcode-top-k-frequent-elements.js) | Arrays & Hashing |
 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | [JavaScript](neetcode-is-anagram.js) | Arrays & Hashing |
 
 ---
