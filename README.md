@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-55-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-56-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 38              |
+| LeetCode     | 39              |
 | NeetCode     | 5               |
 | FreeCodeCamp | 8               |
 | HackerRank   | 4               |
@@ -46,6 +46,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [JavaScript](500-keyboard-row.js) | 🟢 Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [TypeScript](557-reverse-words-in-a-string.ts) | 🟢 Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [TypeScript](704-binary-search.ts) | 🟢 Easy |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [TypeScript](744-find-smallest-letter-greater-than-target.ts) | 🟢 Easy |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [TypeScript](792-number-of-matching-subsequences.ts) | 🟡 Medium |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TypeScript](981-time-based-key-value-store.ts) | 🟡 Medium |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [TypeScript](994-rotting-oranges.ts) | 🟡 Medium |
