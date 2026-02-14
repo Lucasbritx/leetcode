@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-59-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-60-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 41              |
+| LeetCode     | 42              |
 | NeetCode     | 5               |
 | FreeCodeCamp | 9               |
 | HackerRank   | 4               |
@@ -39,6 +39,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [TypeScript](210-course-schedule-ii.ts) | 🟡 Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala), [TypeScript](217-contains-duplicate.ts) | 🟢 Easy |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [TypeScript](219-contains-duplicate-ii.ts) | 🟢 Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](292-nim-game.ts) | 🟢 Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TypeScript](347-top-k-frequent-elements.ts) | 🟡 Medium |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](387-first-unique-character-string.js) | 🟢 Easy |
