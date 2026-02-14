@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-58-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-59-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 40              |
+| LeetCode     | 41              |
 | NeetCode     | 5               |
 | FreeCodeCamp | 9               |
 | HackerRank   | 4               |
@@ -41,6 +41,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala) | 🟢 Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](292-nim-game.ts) | 🟢 Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TypeScript](347-top-k-frequent-elements.ts) | 🟡 Medium |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](387-first-unique-character-string.js) | 🟢 Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](392-is-subsequence.ts) | 🟢 Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [TypeScript](412-fizzbuzz.ts) | 🟢 Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [JavaScript](500-keyboard-row.js) | 🟢 Easy |
