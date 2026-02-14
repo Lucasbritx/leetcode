@@ -38,7 +38,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TypeScript](167-two-sum-ii.ts) | 🟡 Medium |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [TypeScript](210-course-schedule-ii.ts) | 🟡 Medium |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala) | 🟢 Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala), [TypeScript](217-contains-duplicate.ts) | 🟢 Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](292-nim-game.ts) | 🟢 Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TypeScript](347-top-k-frequent-elements.ts) | 🟡 Medium |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](387-first-unique-character-string.js) | 🟢 Easy |
