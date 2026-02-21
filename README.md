@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-61-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-62-green)
 
 ---
 
@@ -12,7 +12,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Platform     | Problems Solved |
 |--------------|-----------------|
 | LeetCode     | 43              |
-| NeetCode     | 5               |
+| NeetCode     | 6               |
 | FreeCodeCamp | 9               |
 | HackerRank   | 4               |
 
@@ -77,6 +77,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Problem | Solution | Category |
 |---------|----------|----------|| [Binary Search](https://neetcode.io/problems/binary-search) | [JavaScript](neetcode-binary-search.js) | Binary Search || [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | [JavaScript](neetcode-150-contains-duplicate.js) | Arrays & Hashing |
 | [Is Palindrome](https://neetcode.io/problems/is-palindrome) | [JavaScript](neetcode-is-palindrome.js) | Two Pointers |
+| [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list) | [JavaScript](neetcode-reverse-linked-list.js) | Linked Lists |
 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | [JavaScript](neetcode-top-k-frequent-elements.js) | Arrays & Hashing |
 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | [JavaScript](neetcode-is-anagram.js) | Arrays & Hashing |
 
