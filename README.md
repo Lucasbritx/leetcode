@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-65-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-66-green)
 
 ---
 
@@ -13,7 +13,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |--------------|-----------------|
 | LeetCode     | 46              |
 | NeetCode     | 6               |
-| FreeCodeCamp | 9               |
+| FreeCodeCamp | 10              |
 | HackerRank   | 4               |
 
 ---
@@ -95,6 +95,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Flatten the Array | [JavaScript](freecodecamp-flatten-the-array.js) | Flatten a nested array |
 | Is Odd or Even | [JavaScript](freecodecamp-is-odd-or-even?.js) | Check if a number is odd or even |
 | Is Valid Hex | [JavaScript](freecodecamp-is-valid-hex.js) | Validate hex color codes |
+| Letter and Number Count | [JavaScript](freecodecamp-letter-and-number-count.js) | Count letters and numbers in a string |
 | Odd or Even Day | [JavaScript](freecodecamp-odd-or-even-day.js) | Check if a day of month is odd or even |
 | Rock Paper Scissors | [JavaScript](freecodecamp-rock-paper-scissors.js) | Classic RPS game implementation |
 | Sorted Array | [JavaScript](freecodecamp-sorted-array?.js) | Array sorting algorithm |
