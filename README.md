@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-63-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-64-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 44              |
+| LeetCode     | 45              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 9               |
 | HackerRank   | 4               |
@@ -35,6 +35,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [JavaScript](79-word-search.js) | 🟡 Medium |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](125-valid-palindrom.ts) | 🟢 Easy |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](141-linked-list-cycle.py), [TypeScript](141-linked-list-cycle.ts) | 🟢 Easy |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TypeScript](167-two-sum-ii.ts) | 🟡 Medium |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [TypeScript](206-reverse-linked-list.ts) | 🟢 Easy |
