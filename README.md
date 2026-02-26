@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-62-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-63-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 43              |
+| LeetCode     | 44              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 9               |
 | HackerRank   | 4               |
@@ -51,6 +51,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [TypeScript](704-binary-search.ts) | 🟢 Easy |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [TypeScript](744-find-smallest-letter-greater-than-target.ts) | 🟢 Easy |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [TypeScript](792-number-of-matching-subsequences.ts) | 🟡 Medium |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](876-middle-of-the-linked-list.py), [TypeScript](876-middle-of-the-linked-list.ts) | 🟢 Easy |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TypeScript](981-time-based-key-value-store.ts) | 🟡 Medium |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [TypeScript](994-rotting-oranges.ts) | 🟡 Medium |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [JavaScript](1018-binary-prefix-div-by-5.js) | 🟢 Easy |
