@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-67-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-68-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 47              |
+| LeetCode     | 48              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 10              |
 | HackerRank   | 4               |
@@ -28,6 +28,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Scala](9-palindrome.scala) | 🟢 Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [TypeScript](11-container-with-most-water.ts) | 🟡 Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](13-roman-to-integer.js) | 🟢 Easy |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](19-remove-nth-node-from-end-of-list.js) | 🟡 Medium |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [TypeScript](21-merge-two-sorted-lists.ts) | 🟢 Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [TypeScript](26-removed-duplicates-from-sorted-array.ts) | 🟢 Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Scala](27-remove-element.scala), [TypeScript](27-remove-element.ts) | 🟢 Easy |
