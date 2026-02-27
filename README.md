@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-66-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-67-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 46              |
+| LeetCode     | 47              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 10              |
 | HackerRank   | 4               |
@@ -34,6 +34,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](56-merge-intervals.ts) | 🟡 Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](66-plus-one.js) | 🟢 Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [JavaScript](79-word-search.js) | 🟡 Medium |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](92-reverse-linked-list-ii.js) | 🟡 Medium |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](125-valid-palindrom.ts) | 🟢 Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](141-linked-list-cycle.py), [TypeScript](141-linked-list-cycle.ts) | 🟢 Easy |
