@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-68-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-69-green)
 
 ---
 
@@ -13,7 +13,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |--------------|-----------------|
 | LeetCode     | 48              |
 | NeetCode     | 6               |
-| FreeCodeCamp | 10              |
+| FreeCodeCamp | 11              |
 | HackerRank   | 4               |
 
 ---
@@ -95,6 +95,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Array Swap | [JavaScript](freecodecamp-array-swap.js) | Reverse an array |
 | FizzBuzz Mini | [JavaScript](freecodecamp-fizzbuzz-mini.js) | Return Fizz, Buzz, FizzBuzz, or the number |
 | Flatten the Array | [JavaScript](freecodecamp-flatten-the-array.js) | Flatten a nested array |
+| Is Flat | [JavaScript](freecodecamp-is-flat.js) | Check if an array has no nested arrays |
 | Is Odd or Even | [JavaScript](freecodecamp-is-odd-or-even?.js) | Check if a number is odd or even |
 | Is Valid Hex | [JavaScript](freecodecamp-is-valid-hex.js) | Validate hex color codes |
 | Letter and Number Count | [JavaScript](freecodecamp-letter-and-number-count.js) | Count letters and numbers in a string |
