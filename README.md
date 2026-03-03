@@ -117,10 +117,19 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 ---
 
-## �🛠️ Languages Used
+## 🔄 Sorting Algorithms
+
+| Algorithm | Solution | Time Complexity | Space Complexity |
+|-----------|----------|-----------------|------------------|
+| Bubble Sort | [Python](bubble-sort.py) | O(n²) | O(1) |
+
+---
+
+## 🛠️ Languages Used
 
 - **JavaScript** - Primary language for most solutions
 - **TypeScript** - Type-safe JavaScript solutions
+- **Python** - Clean and readable solutions
 - **Scala** - Functional programming approach
 - **Java** - Object-oriented solutions
 
@@ -142,6 +151,11 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 node filename.js
 # or with ts-node for TypeScript
 npx ts-node filename.ts
+```
+
+### Python
+```bash
+python3 filename.py
 ```
 
 ### Scala
