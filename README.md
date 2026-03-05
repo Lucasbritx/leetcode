@@ -122,6 +122,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Algorithm | Solution | Time Complexity | Space Complexity |
 |-----------|----------|-----------------|------------------|
 | Bubble Sort | [Python](bubble-sort.py) | O(n²) | O(1) |
+| Quick Sort | [Python](quick-sort.py) | O(n log n) | O(log n) |
 
 ---
 
