@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-69-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-70-green)
 
 ---
 
@@ -122,6 +122,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Algorithm | Solution | Time Complexity | Space Complexity |
 |-----------|----------|-----------------|------------------|
 | Bubble Sort | [Python](bubble-sort.py) | O(n²) | O(1) |
+| Merge Sort | [Python](merge-sort.py) | O(n log n) | O(n) |
 | Quick Sort | [Python](quick-sort.py) | O(n log n) | O(log n) |
 
 ---
