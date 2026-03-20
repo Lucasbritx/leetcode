@@ -129,6 +129,14 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 ---
 
+## 🌳 Data Structures
+
+| Structure | Solution | Description |
+|-----------|----------|-------------|
+| Binary Tree | [Python](binary-tree.py) | Basic binary tree implementation |
+
+---
+
 ## 🛠️ Languages Used
 
 - **JavaScript** - Primary language for most solutions
