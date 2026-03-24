@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-73-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-74-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 51              |
+| LeetCode     | 52              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 11              |
 | HackerRank   | 4               |
@@ -38,6 +38,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](92-reverse-linked-list-ii.js) | 🟡 Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](94-binary-tree-inorder-trasversal.py) | 🟢 Easy |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python](106-construct-binary-tree-from-inorder-and-postorder.py) | 🟡 Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](125-valid-palindrom.ts) | 🟢 Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](141-linked-list-cycle.py), [TypeScript](141-linked-list-cycle.ts) | 🟢 Easy |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TypeScript](167-two-sum-ii.ts) | 🟡 Medium |
