@@ -39,6 +39,21 @@ class BinaryTree:
         else:
             return self._search_recursive(node.right, data)
         
+    def dfs(self, data):
+        return self._dfs_recursive(self.root, data)
+    
+    def _dfs_recursive(self, node, data):
+        if node is None:
+            return False
+        if node.data == data:
+            return True
+        
+        if self._dfs_recursive(node.left, data):
+            return True
+        
+        if self._dfs_recursive(node.right, data):
+            return True
+        
     
     def preorder_traversal(self):
         result = []
@@ -81,11 +96,14 @@ tree.insert(1)
 tree.insert(10)
 tree.insert(15)
 tree.insert(7)
+tree.insert(20)
 
 #print("Search 4:", tree.search(4))
 #print("Search 6:", tree.search(6))
 
 #print("pre traversal:", tree.preorder_traversal())
 #print("in order traversal:", tree.inorder_traversal())
+#print("post order traversal:", tree.postorder_traversal())
 
-print("post order traversal:", tree.postorder_traversal())
+print("dfs:", tree.dfs(20))
+
