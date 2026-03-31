@@ -134,6 +134,14 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 ---
 
+## 🕸️ Graph Algorithms
+
+| Algorithm | Solution | Time Complexity | Space Complexity |
+|-----------|----------|-----------------|------------------|
+| Dijkstra | [Python](dijkstra.py) | O((V + E) log V) | O(V) |
+
+---
+
 ## 🌳 Data Structures
 
 | Structure | Solution | Description |
