@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-77-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-78-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 55              |
+| LeetCode     | 56              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 11              |
 | HackerRank   | 4               |
@@ -47,6 +47,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TypeScript](167-two-sum-ii.ts) | 🟡 Medium |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [TypeScript](206-reverse-linked-list.ts) | 🟢 Easy |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](208-implement-trie.py) | 🟡 Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [TypeScript](210-course-schedule-ii.ts) | 🟡 Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Scala](217-contains-duplicate.scala), [TypeScript](217-contains-duplicate.ts) | 🟢 Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [TypeScript](219-contains-duplicate-ii.ts) | 🟢 Easy |
