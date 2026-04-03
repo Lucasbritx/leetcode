@@ -2,7 +2,7 @@
 
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
-![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Scala%20%7C%20Java-blue)
+![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
 ![Problems](https://img.shields.io/badge/Problems%20Solved-79-green)
 
 ---
@@ -152,7 +152,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |-----------|----------|-------------|
 | Binary Tree | [Python](binary-tree.py) | Basic binary tree implementation |
 | Stack | [Python](stack.py) | Linked-list stack with push, pop, peek, and size operations |
-| Trie | [Python](trie.py) | Prefix tree with insert, search, and starts_with operations |
+| Trie | [Python](trie.py), [Nim](trie.nim) | Prefix tree with insert, search, and starts_with operations |
 
 ---
 
@@ -163,6 +163,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 - **Python** - Clean and readable solutions
 - **Scala** - Functional programming approach
 - **Java** - Object-oriented solutions
+- **Nim** - Fast and expressive systems programming language
 
 ---
 
