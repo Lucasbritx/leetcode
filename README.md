@@ -70,6 +70,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [JavaScript](1018-binary-prefix-div-by-5.js) | 🟢 Easy |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [TypeScript](1200-min-abs-difference.ts) | 🟢 Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](1342-number-of-steps-to-reduce-a-number-to-zero.py) | 🟢 Easy |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python](1436-destination-city.py), [TypeScript](1436-destination-city.ts) | 🟢 Easy |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [TypeScript](1437-check-if-all-1s-are-at-least-length-k-places-away.ts) | 🟢 Easy |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [JavaScript](1695-maximum-erase-value.js) | 🟡 Medium |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [TypeScript](1752-check-if-array-is-sorted-and-rotated.ts) | 🟢 Easy |
