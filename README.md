@@ -151,6 +151,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Structure | Solution | Description |
 |-----------|----------|-------------|
 | Binary Tree | [Python](binary-tree.py) | Basic binary tree implementation |
+| Stack | [Python](stack.py) | Stack implementation with core push/pop operations |
 | Trie | [Python](trie.py) | Prefix tree with insert, search, and starts_with operations |
 
 ---
