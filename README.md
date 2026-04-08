@@ -155,6 +155,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Structure | Solution | Description |
 |-----------|----------|-------------|
 | Binary Tree | [Python](binary-tree.py) | Basic binary tree implementation |
+| Min Heap | [Python](min_heap.py) | Min heap implementation |
 | Stack | [Python](stack.py) | Linked-list stack with push, pop, peek, and size operations |
 | Trie | [Python](trie.py), [Nim](trie.nim) | Prefix tree with insert, search, and starts_with operations |
 
