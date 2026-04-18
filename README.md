@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-84-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-85-green)
 
 ---
 
@@ -31,6 +31,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](19-remove-nth-node-from-end-of-list.js) | 🟡 Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](20-valid-parentheses.py) | 🟢 Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [TypeScript](21-merge-two-sorted-lists.ts) | 🟢 Easy |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](23-merge-k-sorted-lists.py) | 🔴 Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [TypeScript](26-removed-duplicates-from-sorted-array.ts) | 🟢 Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Scala](27-remove-element.scala), [TypeScript](27-remove-element.ts) | 🟢 Easy |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](56-merge-intervals.ts) | 🟡 Medium |
