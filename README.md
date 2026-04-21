@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-87-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-88-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 64              |
+| LeetCode     | 65              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 11              |
 | HackerRank   | 4               |
@@ -59,6 +59,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [TypeScript](219-contains-duplicate-ii.ts) | 🟢 Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](268-missing-number.py) | 🟢 Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [TypeScript](292-nim-game.ts) | 🟢 Easy |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](322-coin-change.py) | 🟡 Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TypeScript](347-top-k-frequent-elements.ts) | 🟡 Medium |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](387-first-unique-character-string.js) | 🟢 Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](392-is-subsequence.ts) | 🟢 Easy |
