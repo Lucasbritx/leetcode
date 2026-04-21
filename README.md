@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-86-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-87-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 63              |
+| LeetCode     | 64              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 11              |
 | HackerRank   | 4               |
@@ -47,6 +47,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](125-valid-palindrom.ts) | 🟢 Easy |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python](133-clone-graph.py) | 🟡 Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](141-linked-list-cycle.py), [TypeScript](141-linked-list-cycle.ts) | 🟢 Easy |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](146-lru-cache.py) | 🟡 Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](155-min-stack.py) | 🟡 Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TypeScript](167-two-sum-ii.ts) | 🟡 Medium |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Scala](174-dungeon-game.scala) | 🔴 Hard |
