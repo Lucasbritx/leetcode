@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-88-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-89-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 65              |
+| LeetCode     | 66              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 11              |
 | HackerRank   | 4               |
@@ -38,6 +38,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](66-plus-one.js) | 🟢 Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](70-climbing-stairs.py) | 🟢 Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [JavaScript](79-word-search.js) | 🟡 Medium |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](91-decode-ways.py) | 🟡 Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](92-reverse-linked-list-ii.js) | 🟡 Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](94-binary-tree-inorder-trasversal.py) | 🟢 Easy |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
