@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-90-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-91-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 67              |
+| LeetCode     | 68              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 11              |
 | HackerRank   | 4               |
@@ -96,6 +96,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [JavaScript](3304-find-k-character-string-game.js) | 🟢 Easy |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Scala](3423-maxAdjacentDistance.scala) | 🟢 Easy |
 | 3478 | [Choose K Elements With Maximum Sum](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/) | [JavaScript](3478-maximum-unique-subarray-sum-after-deletion.js) | 🟡 Medium |
+| 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/?envType=daily-question&envId=2026-05-02) | [JavaScript](3783-mirror-distance-of-an-integer.js) | 🟢 Easy |
 
 ---
 
