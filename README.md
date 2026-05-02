@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-91-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-92-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 68              |
+| LeetCode     | 69              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 11              |
 | HackerRank   | 4               |
@@ -36,6 +36,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Scala](27-remove-element.scala), [TypeScript](27-remove-element.ts) | 🟢 Easy |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](56-merge-intervals.ts) | 🟡 Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](66-plus-one.js) | 🟢 Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/?envType=daily-question&envId=2026-05-02) | [JavaScript](67-add-binary.js) | 🟢 Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](70-climbing-stairs.py) | 🟢 Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [JavaScript](79-word-search.js) | 🟡 Medium |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](91-decode-ways.py) | 🟡 Medium |
