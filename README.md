@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-93-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-94-green)
 
 ---
 
@@ -13,7 +13,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |--------------|-----------------|
 | LeetCode     | 69              |
 | NeetCode     | 6               |
-| FreeCodeCamp | 12              |
+| FreeCodeCamp | 13              |
 | HackerRank   | 4               |
 
 ---
@@ -119,6 +119,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Array Swap | [JavaScript](freecodecamp-array-swap.js) | Reverse an array |
 | FizzBuzz Mini | [JavaScript](freecodecamp-fizzbuzz-mini.js) | Return Fizz, Buzz, FizzBuzz, or the number |
 | Flatten the Array | [JavaScript](freecodecamp-flatten-the-array.js) | Flatten a nested array |
+| Good day | [JavaScript](freecodecamp-good-day.js) | Return greeting based on time of day |
 | Is Flat | [JavaScript](freecodecamp-is-flat.js) | Check if an array has no nested arrays |
 | Is Odd or Even | [JavaScript](freecodecamp-is-odd-or-even?.js) | Check if a number is odd or even |
 | Is Valid Hex | [JavaScript](freecodecamp-is-valid-hex.js) | Validate hex color codes |
