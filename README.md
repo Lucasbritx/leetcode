@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-92-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-93-green)
 
 ---
 
@@ -13,7 +13,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 |--------------|-----------------|
 | LeetCode     | 69              |
 | NeetCode     | 6               |
-| FreeCodeCamp | 11              |
+| FreeCodeCamp | 12              |
 | HackerRank   | 4               |
 
 ---
@@ -124,6 +124,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | Is Valid Hex | [JavaScript](freecodecamp-is-valid-hex.js) | Validate hex color codes |
 | Letter and Number Count | [JavaScript](freecodecamp-letter-and-number-count.js) | Count letters and numbers in a string |
 | Odd or Even Day | [JavaScript](freecodecamp-odd-or-even-day.js) | Check if a day of month is odd or even |
+| Parsec Converter | [JavaScript](freecodecamp-parsec-converter.js) | Convert parsec values based on odd/even |
 | Rock Paper Scissors | [JavaScript](freecodecamp-rock-paper-scissors.js) | Classic RPS game implementation |
 | Sorted Array | [JavaScript](freecodecamp-sorted-array?.js) | Array sorting algorithm |
 | Truncate Text | [JavaScript](freecodecamp-truncate-text.js) | Truncate text to 20 chars with ellipsis |
