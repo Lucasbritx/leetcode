@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **FreeCodeCamp**, and **HackerRank**.
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Python%20%7C%20Scala%20%7C%20Java%20%7C%20Nim-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-94-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-95-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 69              |
+| LeetCode     | 70              |
 | NeetCode     | 6               |
 | FreeCodeCamp | 13              |
 | HackerRank   | 4               |
@@ -76,6 +76,7 @@ A collection of solved algorithm problems from **LeetCode**, **NeetCode**, **Fre
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python](743-network-delay-time.py) | 🟡 Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [TypeScript](744-find-smallest-letter-greater-than-target.ts) | 🟢 Easy |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [TypeScript](792-number-of-matching-subsequences.ts) | 🟡 Medium |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-08) | [JavaScript](796-rotate-string.js) | 🟢 Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](876-middle-of-the-linked-list.py), [TypeScript](876-middle-of-the-linked-list.ts) | 🟢 Easy |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TypeScript](981-time-based-key-value-store.ts) | 🟡 Medium |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [TypeScript](994-rotting-oranges.ts) | 🟡 Medium |
